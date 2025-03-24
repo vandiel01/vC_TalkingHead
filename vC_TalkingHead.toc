@@ -1,0 +1,11 @@
+## Title: STFU Talking Head
+## IconTexture: Interface/ICONS/Achievement_GarrisonFollower_ItemLevel650
+## Name: STFU Talking Head
+## Author: Vandiel-Korgath
+## Interface: 110105
+## Version: 1.0
+
+## Category-enUS: .Van's Quality of Life
+## Notes-enUS: Stop the Talking Head Banner from appearing anywhere, whatever you're doing!
+
+vC_TalkingHead.lua
